@@ -37,14 +37,14 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 
 ## Client libraries
 
-- [github.com/replicate/replicate-javascript](https://github.com/replicate/replicate-javascript) – Node.js client.
-- [github.com/replicate/replicate-python](https://github.com/replicate/replicate-python) – Python client.
-- [github.com/replicate/replicate-swift](https://github.com/replicate/replicate-swift) – Swift client.
-- [github.com/replicate/replicate-elixir](https://github.com/replicate/replicate-elixir) – Elixir client.
-- [github.com/StefH/Replicate.Net](https://github.com/StefH/Replicate.Net) - C# client.
-- [github.com/sausheong/goreplicate](https://github.com/sausheong/goreplicate) - Go client.
-- [github.com/dreamingtulpa/replicate-ruby](https://github.com/dreamingtulpa/replicate-ruby) - Ruby client.
-- [github.com/dreamingtulpa/replicate-rails](https://github.com/dreamingtulpa/replicate-rails) - Rails client.
+- [github.com/replicate/replicate-javascript](replicate-javascript) - Official Node.js client.
+- [github.com/replicate/replicate-python](replicate-python) - Official Python client.
+- [github.com/replicate/replicate-swift](replicate-swift) - Official Swift client.
+- [github.com/replicate/replicate-elixir](replicate-elixir) - Official Elixir client.
+- [github.com/StefH/Replicate.Net](Replicate.Net) - A C# RestEase client for Replicate
+- [github.com/sausheong/goreplicate](goreplicate) - Go package for interacting with the Replicate HTTP APIs.
+- [github.com/dreamingtulpa/replicate-ruby](/replicate-ruby) - A Ruby client for Replicate.
+- [github.com/dreamingtulpa/replicate-rails](replicate-rails) - A gem that bundles the Ruby client and adds webhook support.
 
 ## Guides
 
