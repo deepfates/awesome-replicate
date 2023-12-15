@@ -27,28 +27,28 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 
 ## Open-source tools
 
-- [Cog](https://github.com/replicate/cog) - Containers for machine learning.
-- [Autocog](https://github.com/andreasjansson/AutoCog) - Generate predict.py and cog.yaml automatically using GPT-4.
-- [setup-cog](https://github.com/replicate/setup-cog) - A GitHub Action for Cog so you can run, test, and push models.
-- [Replicate Webhook Proxy](https://github.com/Pwntus/replicate-webhook-proxy) - Receive [Replicate webhook](https://replicate.com/docs/webhooks) events through a websocket connection, right in your browser or Node.js code.
-- [tacomilkshake/replicate-cli](https://github.com/tacomilkshake/replicate-cli) - Command-line interface for Replicate.
-- [fofr/replicate-predict](https://github.com/fofr/replicate-predict) - A JavaScript wrapper to run and save batches of API calls on Replicate.
-- [Prompter](https://github.com/fofr/prompter.fofr.ai) - An app for generating text prompts.
+- [Cog](https://GitHub.com/replicate/cog) - Containers for machine learning.
+- [Autocog](https://GitHub.com/andreasjansson/AutoCog) - Generate predict.py and cog.yaml automatically using GPT-4.
+- [setup-cog](https://GitHub.com/replicate/setup-cog) - A GitHub Action for Cog so you can run, test, and push models.
+- [Replicate Webhook Proxy](https://GitHub.com/Pwntus/replicate-webhook-proxy) - Receive [Replicate webhook](https://replicate.com/docs/webhooks) events through a websocket connection, right in your browser or Node.js code.
+- [tacomilkshake/replicate-cli](https://GitHub.com/tacomilkshake/replicate-cli) - Command-line interface for Replicate.
+- [fofr/replicate-predict](https://GitHub.com/fofr/replicate-predict) - A JavaScript wrapper to run and save batches of API calls on Replicate.
+- [Prompter](https://GitHub.com/fofr/prompter.fofr.ai) - An app for generating text prompts.
 
 ## Client libraries
 
-- [github.com/replicate/replicate-javascript](replicate-javascript) - Official Node.js client.
-- [github.com/replicate/replicate-python](replicate-python) - Official Python client.
-- [github.com/replicate/replicate-swift](replicate-swift) - Official Swift client.
-- [github.com/replicate/replicate-elixir](replicate-elixir) - Official Elixir client.
-- [github.com/StefH/Replicate.Net](Replicate.Net) - A C# RestEase client for Replicate
-- [github.com/sausheong/goreplicate](goreplicate) - Go package for interacting with the Replicate HTTP APIs.
-- [github.com/dreamingtulpa/replicate-ruby](/replicate-ruby) - A Ruby client for Replicate.
-- [github.com/dreamingtulpa/replicate-rails](replicate-rails) - A gem that bundles the Ruby client and adds webhook support.
+- [replicate-javascript](GitHub.com/replicate/replicate-javascript) - Official Node.js client.
+- [replicate-python](GitHub.com/replicate/replicate-python) - Official Python client.
+- [replicate-swift](GitHub.com/replicate/replicate-swift) - Official Swift client.
+- [replicate-elixir](GitHub.com/replicate/replicate-elixir) - Official Elixir client.
+- [Replicate.Net](GitHub.com/StefH/Replicate.Net) - A C# RestEase client for Replicate
+- [goreplicate](GitHub.com/sausheong/goreplicate) - Go package for interacting with the Replicate HTTP APIs.
+- [replicate-ruby](GitHub.com/dreamingtulpa/replicate-ruby) - A Ruby client for Replicate.
+- [replicate-rails](GitHub.com/dreamingtulpa/replicate-rails) - A gem that bundles the Ruby client and adds webhook support.
 
 ## Guides
 
-- [Zeroscope text-to-video](https://zeroscope.replicate.dev/): A settings guide by Replicate
+- [Zeroscope text-to-video](https://zeroscope.replicate.dev/) - A settings guide by Replicate
 - [How I Used Stable Diffusion and Dreambooth to Create A Painted Portrait of My Dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog) - A guide on using Stable Diffusion and Dreambooth.
 - [Blending Artist Styles Together with Stable Diffusion and LoRA](https://www.shruggingface.com/blog/blending-artist-styles-together-with-stable-diffusion-and-lora) - A guide on blending artist styles.
 - [Making Self Portraits With Stable Diffusion and LoRA](https://www.shruggingface.com/blog/self-portraits-with-stable-diffusion-and-lora) - A guide on making self portraits.
