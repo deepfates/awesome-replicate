@@ -41,7 +41,7 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 - [replicate-python](https://github.com/replicate/replicate-python) - Official Python client.
 - [replicate-swift](https://github.com/replicate/replicate-swift) - Official Swift client.
 - [replicate-elixir](https://github.com/replicate/replicate-elixir) - Official Elixir client.
-- [Replicate.Net](https://github.com/StefH/Replicate.Net) - A C# RestEase client for Replicate
+- [Replicate.Net](https://github.com/StefH/Replicate.Net) - A C# RestEase client for Replicate.
 - [goreplicate](https://github.com/sausheong/goreplicate) - Go package for interacting with the Replicate HTTP APIs.
 - [replicate-ruby](https://github.com/dreamingtulpa/replicate-ruby) - A Ruby client for Replicate.
 - [replicate-rails](https://github.com/dreamingtulpa/replicate-rails) - A gem that bundles the Ruby client and adds webhook support.
