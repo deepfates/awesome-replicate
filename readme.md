@@ -44,7 +44,6 @@
 - [github.com/sausheong/goreplicate](https://github.com/sausheong/goreplicate) - Go client
 - [github.com/dreamingtulpa/replicate-ruby](https://github.com/dreamingtulpa/replicate-ruby) - Ruby client
 - [github.com/dreamingtulpa/replicate-rails](https://github.com/dreamingtulpa/replicate-rails) - Rails client
-- 
 
 ## Guides
 
@@ -59,7 +58,6 @@
 
 - [Train your own DreamBooth model using Github Actions and Replicate](https://www.youtube.com/watch?v=jknKfY13LbY)
 - [Generating typographically coherent text in images using AI](https://www.youtube.com/watch?v=Z8u7LBB3T74&t=7s)
--
 
 
 ## Contribute
