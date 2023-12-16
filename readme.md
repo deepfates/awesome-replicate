@@ -65,14 +65,14 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 ## Built with Replicate
 - [AI Town](https://github.com/a16z-infra/ai-town) - A virtual town where AI characters live, chat and socialize.
 - [Omnitool](https://github.com/omnitool-ai/omnitool) - Omnitool.ai is an open-source, downloadable "AI Lab in a box" built for learners, enthusiasts and anyone with interest in the current wave of AI innovation.
-- [Extrapolate](https://github.com/steven-tey/extrapolate) Generate a GIF of your face as it ages through time.
+- [Extrapolate](https://github.com/steven-tey/extrapolate) - Generate a GIF of your face as it ages through time.
 - [lofianime.com](https://github.com/alpinecodex/lofianime) - Generate lofi-anime inspired landscape images.
 - [Spirals](https://github.com/steven-tey/spirals) - Generate beautiful AI spiral art with one click.
 - [qrGPT](https://github.com/Nutlope/qrGPT) - An AI QR code generator.
 - [emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [AI GIFs](https://github.com/btahir/ai-gifs) - Generate GIFs from text using AI.)
 - [AI Tamago](https://github.com/ykhli/AI-tamago) - A local-ready LLM-generated and LLM-driven virtual pet with thoughts and feelings. 
-- [youtune](https://github.com/cbh123/youtune) Fine-tune SDXL and MusicGen models on YouTube videos.
+- [youtune](https://github.com/cbh123/youtune) - Fine-tune SDXL and MusicGen models on YouTube videos.
 - [action-transcription](https://github.com/simonw/action-transcription) - A tool for creating a repository of transcribed videos using GitHub Actions.
 
 ## Contribute
