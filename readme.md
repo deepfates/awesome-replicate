@@ -72,7 +72,8 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 - [emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [AI GIFs](https://github.com/btahir/ai-gifs) - Generate GIFs from text using AI.)
 - [AI Tamago](https://github.com/ykhli/AI-tamago) - A local-ready LLM-generated and LLM-driven virtual pet with thoughts and feelings. 
-
+- [youtune](https://github.com/cbh123/youtune) Fine-tune SDXL and MusicGen models on YouTube videos.
+- [action-transcription](https://github.com/simonw/action-transcription) - A tool for creating a repository of transcribed videos using GitHub Actions.
 
 ## Contribute
 
