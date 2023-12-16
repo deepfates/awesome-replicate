@@ -77,4 +77,4 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 
 ## Contribute
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Please read the [contribution guidelines](contributing.md) first.
