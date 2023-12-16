@@ -11,6 +11,7 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 - [Client libraries](#client-libraries)
 - [Guides](#guides)
 - [Videos](#videos)
+- [Built with Replicate](#built-with-replicate)
 - [Contribute](#contribute)
 
 ## Demo apps
@@ -34,6 +35,7 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 - [tacomilkshake/replicate-cli](https://https://github.com/tacomilkshake/replicate-cli) - Command-line interface for Replicate.
 - [fofr/replicate-predict](https://https://github.com/fofr/replicate-predict) - A JavaScript wrapper to run and save batches of API calls on Replicate.
 - [Prompter](https://https://github.com/fofr/prompter.fofr.ai) - An app for generating text prompts.
+- [all-the-public-replicate-models](https://github.com/zeke/all-the-public-replicate-models) - Metadata for all the public models on Replicate, bundled up into an npm package.
 
 ## Client libraries
 
@@ -59,6 +61,18 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 
 - [Train your own DreamBooth model using https://github Actions and Replicate](https://www.youtube.com/watch?v=jknKfY13LbY) - A video tutorial.
 - [Generating typographically coherent text in images using AI](https://www.youtube.com/watch?v=Z8u7LBB3T74&t=7s) - A video tutorial.
+
+## Built with Replicate
+- [AI Town](https://github.com/a16z-infra/ai-town) - A virtual town where AI characters live, chat and socialize.
+- [Omnitool](https://github.com/omnitool-ai/omnitool) - Omnitool.ai is an open-source, downloadable "AI Lab in a box" built for learners, enthusiasts and anyone with interest in the current wave of AI innovation.
+- [Extrapolate](https://github.com/steven-tey/extrapolate) Generate a GIF of your face as it ages through time.
+- [lofianime.com](https://github.com/alpinecodex/lofianime) - Generate lofi-anime inspired landscape images.
+- [Spirals](https://github.com/steven-tey/spirals) - Generate beautiful AI spiral art with one click.
+- [qrGPT](https://github.com/Nutlope/qrGPT) - An AI QR code generator.
+- [emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
+- [AI GIFs](https://github.com/btahir/ai-gifs) - Generate GIFs from text using AI.)
+- [AI Tamago](https://github.com/ykhli/AI-tamago) - A local-ready LLM-generated and LLM-driven virtual pet with thoughts and feelings. 
+
 
 ## Contribute
 
