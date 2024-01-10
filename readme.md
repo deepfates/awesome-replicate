@@ -28,13 +28,13 @@ Replicate is a cloud-based platform for ML model deployment and execution. It of
 
 ## Open-source tools
 
-- [Cog](https://https://github.com/replicate/cog) - Containers for machine learning.
-- [Autocog](https://https://github.com/andreasjansson/AutoCog) - Generate predict.py and cog.yaml automatically using GPT-4.
-- [setup-cog](https://https://github.com/replicate/setup-cog) - A Github Action for Cog so you can run, test, and push models.
-- [Replicate Webhook Proxy](https://https://github.com/Pwntus/replicate-webhook-proxy) - Receive [Replicate webhook](https://replicate.com/docs/webhooks) events through a websocket connection, right in your browser or Node.js code.
-- [tacomilkshake/replicate-cli](https://https://github.com/tacomilkshake/replicate-cli) - Command-line interface for Replicate.
-- [fofr/replicate-predict](https://https://github.com/fofr/replicate-predict) - A JavaScript wrapper to run and save batches of API calls on Replicate.
-- [Prompter](https://https://github.com/fofr/prompter.fofr.ai) - An app for generating text prompts.
+- [Cog](https://github.com/replicate/cog) - Containers for machine learning.
+- [Autocog](https://github.com/andreasjansson/AutoCog) - Generate predict.py and cog.yaml automatically using GPT-4.
+- [setup-cog](https://github.com/replicate/setup-cog) - A Github Action for Cog so you can run, test, and push models.
+- [Replicate Webhook Proxy](https://github.com/Pwntus/replicate-webhook-proxy) - Receive [Replicate webhook](https://replicate.com/docs/webhooks) events through a websocket connection, right in your browser or Node.js code.
+- [tacomilkshake/replicate-cli](https://github.com/tacomilkshake/replicate-cli) - Command-line interface for Replicate.
+- [fofr/replicate-predict](https://github.com/fofr/replicate-predict) - A JavaScript wrapper to run and save batches of API calls on Replicate.
+- [Prompter](https://github.com/fofr/prompter.fofr.ai) - An app for generating text prompts.
 - [all-the-public-replicate-models](https://github.com/zeke/all-the-public-replicate-models) - Metadata for all the public models on Replicate, bundled up into an npm package.
 
 ## Client libraries
